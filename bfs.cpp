@@ -1,5 +1,4 @@
 //Nicholas Guidice
-//CS 375 Project 5 "Breadth First Search"
 
 #include <iostream>
 #include <vector>
